@@ -25,6 +25,9 @@ Run the tests: `./run_tests all`.
 Good luck and please email us if you have any questions. We're rooting for you.
 
 star_su@brown.edu
+
 daphne_li-chen@brown.edu
+
 zsofia_biegl@brown.edu
+
 jason_fischman@brown.edu
