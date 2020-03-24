@@ -22,7 +22,7 @@ Compile on the department machines using: `make clean all` or `make`.
 
 Run the tests: `./run_tests all`.
 
-Good luck and please email us if you have any questions. We're rooting for you.
+Good luck and please email us if you have any questions. We're rooting for you!
 
 star_su@brown.edu
 
