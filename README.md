@@ -22,12 +22,4 @@ Compile on the department machines using: `make clean all` or `make`.
 
 Run the tests: `./run_tests all`.
 
-Good luck and please email us if you have any questions. We're rooting for you!
-
-star_su@brown.edu
-
-daphne_li-chen@brown.edu
-
-zsofia_biegl@brown.edu
-
-jason_fischman@brown.edu
+Good luck and please email us if you have any questions (cs0330headtas@lists.brown.edu). We're rooting for you! 
