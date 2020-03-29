@@ -24,8 +24,8 @@
  * s1 > s2
  *
  * Examples:
- * 1. >  strncmp("abcde", "abdde", 3) = some negative number
- * 2. >  strncmp("abcde", "abdde", 2) = 0
+ * 1. <  strncmp("abcde", "abdde", 3) = some negative number
+ * 2. ==  strncmp("abcde", "abdde", 2) = 0
  * 3. >  strncmp("1234567", "123", 100) = some positive number
  *
  *  - Hint: You can use the other string functions you implemented.
@@ -42,7 +42,6 @@ int strncmp(const char* s1, const char* s2, size_t n) {
   if (!n) { 
     res = n;
   } else {
-    /* res = *s1 - *s2 */
     res = s1 - s2;
   }
 
